@@ -2,8 +2,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=persinac&theme=merko)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=apersingerrbx&theme=merko)](https://git.io/streak-stats)
-
 - 🔭 I’m currently working on: data pipelines ingress & egress (with some transformations in between) utilizing a myriad of datawarehousing tools
 - 🌱 I’m currently learning: k8s + pulumi
 - 👯 I’m looking to collaborate on: annything climate related
