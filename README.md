@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on: data pipelines ingress & egress (with some transformations in between) utilizing a myriad of datawarehousing tools
 - 🌱 I’m currently learning: k8s + pulumi
-- 👯 I’m looking to collaborate on: annything climate related
+- 👯 I’m looking to collaborate on: anything climate related
 - 🤔 I’m looking for help with: networking within k8s
 - 💬 Ask me about ...
 - 📫 How to reach me: https://www.linkedin.com/in/alex-persinger-8a3a0517/
